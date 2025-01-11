@@ -1,7 +1,7 @@
 import os
 import shutil
 
-directory = r'C:\Users\Liezl\Downloads'
+directory = r'C:\Users\Lanie\Downloads'
 file_types = {
     'Images': ['.jpg', '.jpeg', '.png', '.gif', '.bmp'],
     'Documents': ['.pdf', '.docx', '.txt', '.xlsx', '.pptx'],
